@@ -85,29 +85,36 @@
 
 <p align="left">
 
-<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=HTML&value=80&design=candy">
+<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=HTML&value=80&design=candy&fill=ff69b4">
 
-<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=CSS&value=70&design=candy">
+<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=CSS&value=70&design=candy&fill=ff69b4">
 
-<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=JS&value=50&design=candy">
+<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=JS&value=50&design=candy&fill=ff69b4">
 
-<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=REACT&value=60&design=candy">
+<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=REACT&value=60&design=candy&fill=ff69b4">
 
-<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=CPP&value=50&design=candy">
+<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=CPP&value=50&design=candy&fill=ff69b4">
 
-<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=GIT&value=70&design=candy">
+<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=GIT&value=70&design=candy&fill=ff69b4">
 
 </p>
 
 
 
-# &nbsp;&nbsp;&nbsp;My Experience 🧑🏻‍🎓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My Stackoverflow profile 👀
+# My Experience 🎓 
 
 
 
 <p align="left">
 
 <img  src="https://readme-components.vercel.app/api?component=experience&company=freshworks&role=software%20Developer%20Intern&duration=7m&location=chennai&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A">
+
+</p>
+
+# My Stackoverflow profile 👀
+
+
+<p align="left">
 <img  src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=8780399&textfill=black&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A">
 </p>
 
