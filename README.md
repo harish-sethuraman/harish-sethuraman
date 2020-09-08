@@ -43,7 +43,7 @@
 
 <p align="left">
 
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=🧑‍💻&desc=readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=📚&desc=readme-components">
 
 </p>
 
@@ -79,7 +79,7 @@
 
 
 
-# My Skills 🧑🏼‍💻
+# My Skills 💻
 
 
 
