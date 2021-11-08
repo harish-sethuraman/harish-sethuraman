@@ -22,15 +22,6 @@
 <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
 </a>
-</p>
-
-  
-
-- 🌱 I’m currently learning
-
-  
-
-<p align="left"> 
 <a href="https://github.com/harish-sethuraman/readme-components">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
  </a>
@@ -52,26 +43,14 @@
 
 </p>
 
-- 🤔 I’m looking for help with
-
-  
-
-<p align="left">
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=redux&svgfill=764abc">
-</a>
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa">
-</a>
-</p>
-
-  
-
 - 👀 Things i have been using for these days
 
   
 
 <p align="left">
+  <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa">
+</a>
 <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
 </a>
@@ -121,7 +100,7 @@
 
 <p align="left">
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=experience&company=freshworks&role=software%20Developer%20Intern&duration=7m&location=chennai&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A">
+<img  src="https://readme-components.vercel.app/api?component=experience&company=freshworks&role=software%20Engineer%20Frontend&duration=1.10y&location=chennai&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A">
 </a>
 </p>
 
